@@ -1,3 +1,5 @@
 script.Parent.MouseButton1Click:Connect(function()
   script.Parent.Visible = false
 end)
+
+https://www.roblox.com/library/4685570047/Main-Menu-Tutorial
